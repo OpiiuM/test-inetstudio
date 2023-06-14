@@ -1,11 +1,11 @@
 <script setup>
-import TheFilters from '@/components/TheFilters.vue'
-import TheContent from '@/components/TheContent.vue'
-import { useUsersStore } from '@/stores/users'
+import TheFilters from '@/components/TheFilters.vue';
+import TheContent from '@/components/TheContent.vue';
+import { useUsersStore } from '@/stores/users';
 
-const usersStore = useUsersStore()
+const usersStore = useUsersStore();
 
-usersStore.fetchData()
+usersStore.fetchData();
 </script>
 
 <template>
