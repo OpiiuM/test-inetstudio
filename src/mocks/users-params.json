@@ -1,0 +1,57 @@
+[
+  {
+    "id": "001",
+    "userId": "001",
+    "params": {
+      "country": {
+        "name": "Russia",
+        "value": "russia"
+      },
+      "score": 18
+    }
+  },
+  {
+    "id": "002",
+    "userId": "002",
+    "params": {
+      "country": {
+        "name": "Russia",
+        "value": "russia"
+      },
+      "score": 588
+    }
+  },
+  {
+    "id": "003",
+    "userId": "003",
+    "params": {
+      "country": {
+        "name": "USA",
+        "value": "usa"
+      },
+      "score": 21
+    }
+  },
+  {
+    "id": "004",
+    "userId": "004",
+    "params": {
+      "country": {
+        "name": "Russia",
+        "value": "russia"
+      },
+      "score": 1
+    }
+  },
+  {
+    "id": "005",
+    "userId": "005",
+    "params": {
+      "country": {
+        "name": "USA",
+        "value": "usa"
+      },
+      "score": 9
+    }
+  }
+]

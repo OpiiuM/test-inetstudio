@@ -1,0 +1,17 @@
+@import 'normalize.css';
+@import 'primevue/resources/primevue.min.css';
+@import 'primevue/resources/themes/bootstrap4-light-blue/theme.css';
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+ul,
+ol {
+  margin: 0;
+  padding: 0;
+
+  list-style: none;
+}
